@@ -221,5 +221,5 @@ GitHub: [@codebydhirajpatil](https://github.com/codebydhirajpatil)
 Project Repository: [Customer_Behavior](https://github.com/codebydhirajpatil/Customer_Behavior)
 
 ## 📊 Power BI Dashboard
-
+https://github.com/codebydhirajpatil/Customer_Behavior/blob/main/Screenshot%202026-11-08%20120008.png
 
